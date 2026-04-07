@@ -27,9 +27,8 @@ regional performance, category profitability, and discount impact.
 ---
 
 ## 🛠️ Tools Used
-
 - Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, Dashboards)
-
+- Python (Pandas, Matplotlib) — Jupyter Notebook
 ---
 
 ## 📌 Key Insights
